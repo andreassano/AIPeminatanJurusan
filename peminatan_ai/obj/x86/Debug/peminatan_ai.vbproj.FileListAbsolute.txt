@@ -1,0 +1,38 @@
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES\peminatan_ai\peminatan_ai\bin\Debug\peminatan_ai.exe
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES\peminatan_ai\peminatan_ai\bin\Debug\peminatan_ai.pdb
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES\peminatan_ai\peminatan_ai\bin\Debug\peminatan_ai.xml
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES\peminatan_ai\peminatan_ai\obj\x86\Debug\peminatan_ai.Form1.resources
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES\peminatan_ai\peminatan_ai\obj\x86\Debug\peminatan_ai.Resources.resources
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES\peminatan_ai\peminatan_ai\obj\x86\Debug\peminatan_ai.vbproj.GenerateResource.Cache
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES\peminatan_ai\peminatan_ai\obj\x86\Debug\peminatan_ai.exe
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES\peminatan_ai\peminatan_ai\obj\x86\Debug\peminatan_ai.xml
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES\peminatan_ai\peminatan_ai\obj\x86\Debug\peminatan_ai.pdb
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES\peminatan_ai\peminatan_ai\bin\Debug\peminatan_ai.exe.config
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES\peminatan_ai\peminatan_ai\bin\Debug\Guna.UI2.dll
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES\peminatan_ai\peminatan_ai\obj\x86\Debug\peminatan_ai.minat.resources
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES\peminatan_ai\peminatan_ai\obj\x86\Debug\peminatan_ai.soal1.resources
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES\peminatan_ai\peminatan_ai\obj\x86\Debug\peminatan_ai.Soal2.resources
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES\peminatan_ai\peminatan_ai\obj\x86\Debug\peminatan_ai.Soal3.resources
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES\peminatan_ai\peminatan_ai\obj\x86\Debug\peminatan_ai.Nilai.resources
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES vb 12\peminatan_ai\peminatan_ai\bin\Debug\peminatan_ai.exe.config
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES vb 12\peminatan_ai\peminatan_ai\obj\x86\Debug\peminatan_ai.exe
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES vb 12\peminatan_ai\peminatan_ai\obj\x86\Debug\peminatan_ai.xml
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES vb 12\peminatan_ai\peminatan_ai\obj\x86\Debug\peminatan_ai.pdb
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES vb 12\peminatan_ai\peminatan_ai\bin\Debug\peminatan_ai.exe
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES vb 12\peminatan_ai\peminatan_ai\bin\Debug\peminatan_ai.pdb
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES vb 12\peminatan_ai\peminatan_ai\bin\Debug\peminatan_ai.xml
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES vb 12\peminatan_ai\peminatan_ai\bin\Debug\Guna.UI2.dll
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES vb 12\peminatan_ai\peminatan_ai\obj\x86\Debug\peminatan_ai.vbprojResolveAssemblyReference.cache
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES vb 12\peminatan_ai\peminatan_ai\obj\x86\Debug\peminatan_ai.Form1.resources
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES vb 12\peminatan_ai\peminatan_ai\obj\x86\Debug\peminatan_ai.minat.resources
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES vb 12\peminatan_ai\peminatan_ai\obj\x86\Debug\peminatan_ai.Resources.resources
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES vb 12\peminatan_ai\peminatan_ai\obj\x86\Debug\peminatan_ai.Nilai.resources
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES vb 12\peminatan_ai\peminatan_ai\obj\x86\Debug\peminatan_ai.Soal1.resources
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES vb 12\peminatan_ai\peminatan_ai\obj\x86\Debug\peminatan_ai.Soal2.resources
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES vb 12\peminatan_ai\peminatan_ai\obj\x86\Debug\peminatan_ai.Soal3.resources
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES vb 12\peminatan_ai\peminatan_ai\obj\x86\Debug\peminatan_ai.vbproj.GenerateResource.Cache
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES vb 12\peminatan_ai\peminatan_ai\obj\x86\Debug\peminatan_ai.SignUp.resources
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES vb 12\peminatan_ai\peminatan_ai\obj\x86\Debug\peminatan_ai.Login.resources
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES vb 12\peminatan_ai\peminatan_ai\obj\x86\Debug\peminatan_ai.dump.resources
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES vb 12\peminatan_ai\peminatan_ai\obj\x86\Debug\peminatan_ai.Hasil.resources
+C:\Users\LENOVO\Documents\FOLDER TUGAS CAMPUSSSSSS\SEMESTER 4 BROKKK\KECERDASAN BUATAN (AI)\TUBES vb 12\peminatan_ai\peminatan_ai\obj\x86\Debug\peminatan_ai.dashboard.resources
